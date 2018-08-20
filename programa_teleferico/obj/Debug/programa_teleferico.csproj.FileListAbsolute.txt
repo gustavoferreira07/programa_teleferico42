@@ -1,0 +1,1256 @@
+c:\users\claudio\documents\visual studio 2012\Projects\programa_teleferico\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+c:\users\claudio\documents\visual studio 2012\Projects\programa_teleferico\programa_teleferico\bin\Debug\programa_teleferico.exe
+c:\users\claudio\documents\visual studio 2012\Projects\programa_teleferico\programa_teleferico\bin\Debug\programa_teleferico.pdb
+c:\users\claudio\documents\visual studio 2012\Projects\programa_teleferico\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+c:\users\claudio\documents\visual studio 2012\Projects\programa_teleferico\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+c:\users\claudio\documents\visual studio 2012\Projects\programa_teleferico\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+c:\users\claudio\documents\visual studio 2012\Projects\programa_teleferico\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+c:\users\claudio\documents\visual studio 2012\Projects\programa_teleferico\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+c:\users\claudio\documents\visual studio 2012\Projects\programa_teleferico\programa_teleferico\obj\Debug\programa_teleferico.exe
+c:\users\claudio\documents\visual studio 2012\Projects\programa_teleferico\programa_teleferico\obj\Debug\programa_teleferico.pdb
+c:\users\claudio\documents\visual studio 2012\Projects\programa_teleferico\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento.resources
+C:\Users\Claudio\Desktop\programa_teleferico\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Claudio\Desktop\programa_teleferico\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\programa_teleferico\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\programa_teleferico\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\programa_teleferico\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\programa_teleferico\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\Claudio\Desktop\programa_teleferico\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento.resources
+C:\Users\Claudio\Desktop\programa_teleferico\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Claudio\Desktop\programa_teleferico\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Claudio\Desktop\programa_teleferico\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Claudio\Desktop\programa_teleferico\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\3binfo\Desktop\programa_teleferico3.0\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\3binfo\Desktop\programa_teleferico3.0\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\3binfo\Desktop\programa_teleferico3.0\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\3binfo\Desktop\programa_teleferico3.0\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\3binfo\Desktop\programa_teleferico3.0\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\3binfo\Desktop\programa_teleferico3.0\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\3binfo\Desktop\programa_teleferico3.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\3binfo\Desktop\programa_teleferico3.0\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\3binfo\Desktop\programa_teleferico3.0\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\3binfo\Desktop\programa_teleferico3.0\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\3binfo\Desktop\programa_teleferico3.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\3binfo\Desktop\programa_teleferico3.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastro_avulso.resources
+C:\Users\3binfo\Desktop\programa_teleferico3.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma.resources
+C:\Users\3binfo\Downloads\programa_teleferico4.0\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\3binfo\Downloads\programa_teleferico4.0\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\3binfo\Downloads\programa_teleferico4.0\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\3binfo\Downloads\programa_teleferico4.0\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\3binfo\Downloads\programa_teleferico4.0\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\3binfo\Downloads\programa_teleferico4.0\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\3binfo\Downloads\programa_teleferico4.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma.resources
+C:\Users\3binfo\Downloads\programa_teleferico4.0\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\3binfo\Downloads\programa_teleferico4.0\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\3binfo\Downloads\programa_teleferico4.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\3binfo\Downloads\programa_teleferico4.0\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\3binfo\Downloads\programa_teleferico4.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Claudio\Desktop\programa_teleferico4.0\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Claudio\Desktop\programa_teleferico4.0\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\programa_teleferico4.0\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\programa_teleferico4.0\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\programa_teleferico4.0\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\programa_teleferico4.0\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\Claudio\Desktop\programa_teleferico4.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Claudio\Desktop\programa_teleferico4.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma.resources
+C:\Users\Claudio\Desktop\programa_teleferico4.0\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Claudio\Desktop\programa_teleferico4.0\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Claudio\Desktop\programa_teleferico4.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Claudio\Desktop\programa_teleferico4.0\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Claudio\Desktop\programa_teleferico4.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\3binfo\Desktop\programa_teleferico6.0\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\3binfo\Desktop\programa_teleferico6.0\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\3binfo\Desktop\programa_teleferico6.0\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\3binfo\Desktop\programa_teleferico6.0\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\3binfo\Desktop\programa_teleferico6.0\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\3binfo\Desktop\programa_teleferico6.0\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\3binfo\Desktop\programa_teleferico6.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\3binfo\Desktop\programa_teleferico6.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\3binfo\Desktop\programa_teleferico6.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\3binfo\Desktop\programa_teleferico6.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\3binfo\Desktop\programa_teleferico6.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\3binfo\Desktop\programa_teleferico6.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma.resources
+C:\Users\3binfo\Desktop\programa_teleferico6.0\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\3binfo\Desktop\programa_teleferico6.0\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\3binfo\Desktop\programa_teleferico6.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\3binfo\Desktop\programa_teleferico6.0\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\3binfo\Desktop\programa_teleferico6.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\3binfo\Desktop\programa_teleferico7.0\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\3binfo\Desktop\programa_teleferico7.0\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\3binfo\Desktop\programa_teleferico7.0\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\3binfo\Desktop\programa_teleferico7.0\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\3binfo\Desktop\programa_teleferico7.0\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\3binfo\Desktop\programa_teleferico7.0\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\3binfo\Desktop\programa_teleferico7.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\3binfo\Desktop\programa_teleferico7.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\3binfo\Desktop\programa_teleferico7.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\3binfo\Desktop\programa_teleferico7.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\3binfo\Desktop\programa_teleferico7.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\3binfo\Desktop\programa_teleferico7.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\3binfo\Desktop\programa_teleferico7.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma.resources
+C:\Users\3binfo\Desktop\programa_teleferico7.0\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\3binfo\Desktop\programa_teleferico7.0\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\3binfo\Desktop\programa_teleferico7.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\3binfo\Desktop\programa_teleferico7.0\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Claudio\Desktop\programa_teleferico8.0\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Claudio\Desktop\programa_teleferico8.0\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\programa_teleferico8.0\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\programa_teleferico8.0\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\programa_teleferico8.0\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\programa_teleferico8.0\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\Claudio\Desktop\programa_teleferico8.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Claudio\Desktop\programa_teleferico8.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Claudio\Desktop\programa_teleferico8.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Claudio\Desktop\programa_teleferico8.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Claudio\Desktop\programa_teleferico8.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Claudio\Desktop\programa_teleferico8.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Claudio\Desktop\programa_teleferico8.0\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Claudio\Desktop\programa_teleferico8.0\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Claudio\Desktop\programa_teleferico8.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Claudio\Desktop\programa_teleferico8.0\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Claudio\Desktop\programa_teleferico8.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Claudio\Desktop\programa_teleferico8.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Claudio\Desktop\programa_teleferico9.0\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Claudio\Desktop\programa_teleferico9.0\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\programa_teleferico9.0\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\programa_teleferico9.0\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\programa_teleferico9.0\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\programa_teleferico9.0\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\Claudio\Desktop\programa_teleferico9.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Claudio\Desktop\programa_teleferico9.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Claudio\Desktop\programa_teleferico9.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Claudio\Desktop\programa_teleferico9.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Claudio\Desktop\programa_teleferico9.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Claudio\Desktop\programa_teleferico9.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Claudio\Desktop\programa_teleferico9.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Claudio\Desktop\programa_teleferico9.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Claudio\Desktop\programa_teleferico9.0\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Claudio\Desktop\programa_teleferico9.0\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Claudio\Desktop\programa_teleferico9.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Claudio\Desktop\programa_teleferico9.0\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico9.0\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico9.0\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico9.0\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico9.0\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico9.0\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico9.0\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico9.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico9.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico9.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico9.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico9.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico9.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico9.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico9.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico9.0\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico9.0\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico9.0\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico9.0\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\3binfo\Desktop\programa_teleferico9.4\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\3binfo\Desktop\programa_teleferico9.4\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\3binfo\Desktop\programa_teleferico9.4\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\3binfo\Desktop\programa_teleferico9.4\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\3binfo\Desktop\programa_teleferico9.4\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\3binfo\Desktop\programa_teleferico9.4\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\3binfo\Desktop\programa_teleferico9.4\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.4\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.4\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.4\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.4\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.4\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.4\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.4\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.4\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.4\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.4\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.4\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\3binfo\Desktop\programa_teleferico9.7\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\3binfo\Desktop\programa_teleferico9.7\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\3binfo\Desktop\programa_teleferico9.7\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\3binfo\Desktop\programa_teleferico9.7\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\3binfo\Desktop\programa_teleferico9.7\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\3binfo\Desktop\programa_teleferico9.7\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\3binfo\Desktop\programa_teleferico9.7\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.7\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.7\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.7\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.7\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.7\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.7\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.7\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.7\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.7\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.7\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.7\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Danilo\Downloads\programa_teleferico9.9\programa_teleferico9.9\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Danilo\Downloads\programa_teleferico9.9\programa_teleferico9.9\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Danilo\Downloads\programa_teleferico9.9\programa_teleferico9.9\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Danilo\Downloads\programa_teleferico9.9\programa_teleferico9.9\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Danilo\Downloads\programa_teleferico9.9\programa_teleferico9.9\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Danilo\Downloads\programa_teleferico9.9\programa_teleferico9.9\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Downloads\programa_teleferico9.9\programa_teleferico9.9\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Danilo\Downloads\programa_teleferico9.9\programa_teleferico9.9\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Danilo\Downloads\programa_teleferico9.9\programa_teleferico9.9\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Danilo\Downloads\programa_teleferico9.9\programa_teleferico9.9\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Danilo\Downloads\programa_teleferico9.9\programa_teleferico9.9\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Danilo\Downloads\programa_teleferico9.9\programa_teleferico9.9\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Danilo\Downloads\programa_teleferico9.9\programa_teleferico9.9\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Danilo\Downloads\programa_teleferico9.9\programa_teleferico9.9\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Danilo\Downloads\programa_teleferico9.9\programa_teleferico9.9\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Danilo\Downloads\programa_teleferico9.9\programa_teleferico9.9\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Danilo\Downloads\programa_teleferico9.9\programa_teleferico9.9\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Danilo\Downloads\programa_teleferico9.9\programa_teleferico9.9\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\3binfo\Desktop\programa_teleferico9.9\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\3binfo\Desktop\programa_teleferico9.9\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\3binfo\Desktop\programa_teleferico9.9\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\3binfo\Desktop\programa_teleferico9.9\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\3binfo\Desktop\programa_teleferico9.9\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\3binfo\Desktop\programa_teleferico9.9\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\3binfo\Desktop\programa_teleferico9.9\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.9\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.9\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.9\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.9\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.9\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.9\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.9\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.9\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.9\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.9\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\3binfo\Desktop\programa_teleferico9.9\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\3binfo\Desktop\programa_teleferico11\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\3binfo\Desktop\programa_teleferico11\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\3binfo\Desktop\programa_teleferico11\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\3binfo\Desktop\programa_teleferico11\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\3binfo\Desktop\programa_teleferico11\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\3binfo\Desktop\programa_teleferico11\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\3binfo\Desktop\programa_teleferico11\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\3binfo\Desktop\programa_teleferico11\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\3binfo\Desktop\programa_teleferico11\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\3binfo\Desktop\programa_teleferico11\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\3binfo\Desktop\programa_teleferico11\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\3binfo\Desktop\programa_teleferico11\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\3binfo\Desktop\programa_teleferico11\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\3binfo\Desktop\programa_teleferico11\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\3binfo\Desktop\programa_teleferico11\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\3binfo\Desktop\programa_teleferico11\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\3binfo\Desktop\programa_teleferico11\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\3binfo\Desktop\programa_teleferico11\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\3binfo\Desktop\programa_teleferico11\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\3binfo\Desktop\programa_teleferico12\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\3binfo\Desktop\programa_teleferico12\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\3binfo\Desktop\programa_teleferico12\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\3binfo\Desktop\programa_teleferico12\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\3binfo\Desktop\programa_teleferico12\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\3binfo\Desktop\programa_teleferico12\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\3binfo\Desktop\programa_teleferico12\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\3binfo\Desktop\programa_teleferico12\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\3binfo\Desktop\programa_teleferico12\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\3binfo\Desktop\programa_teleferico12\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\3binfo\Desktop\programa_teleferico12\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\3binfo\Desktop\programa_teleferico12\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\3binfo\Desktop\programa_teleferico12\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\3binfo\Desktop\programa_teleferico12\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\3binfo\Desktop\programa_teleferico12\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\3binfo\Desktop\programa_teleferico12\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\3binfo\Desktop\programa_teleferico12\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\3binfo\Desktop\programa_teleferico12\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\3binfo\Desktop\programa_teleferico12\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\3binfo\Desktop\programa_teleferico12\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+C:\Users\3binfo\Desktop\programa_teleferico12\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico13\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico13\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico13\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Danilo\Downloads\programa_teleferico15\programa_teleferico13\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Danilo\Downloads\programa_teleferico15\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Danilo\Downloads\programa_teleferico15\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Danilo\Downloads\programa_teleferico15\programa_teleferico13\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Danilo\Downloads\programa_teleferico15\programa_teleferico13\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Danilo\Downloads\programa_teleferico15\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Downloads\programa_teleferico15\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\Danilo\Downloads\programa_teleferico15\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Danilo\Downloads\programa_teleferico15\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Danilo\Downloads\programa_teleferico15\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Danilo\Downloads\programa_teleferico15\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Danilo\Downloads\programa_teleferico15\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Danilo\Downloads\programa_teleferico15\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Danilo\Downloads\programa_teleferico15\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Danilo\Downloads\programa_teleferico15\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Danilo\Downloads\programa_teleferico15\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+C:\Users\Danilo\Downloads\programa_teleferico15\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Danilo\Downloads\programa_teleferico15\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Danilo\Downloads\programa_teleferico15\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Danilo\Downloads\programa_teleferico15\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+C:\Users\Danilo\Downloads\programa_teleferico15\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Gustavo\Desktop\programa_teleferico13\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Gustavo\Desktop\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Gustavo\Desktop\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Gustavo\Desktop\programa_teleferico13\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Gustavo\Desktop\programa_teleferico13\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Gustavo\Desktop\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Desktop\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\Gustavo\Desktop\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Gustavo\Desktop\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Gustavo\Desktop\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Gustavo\Desktop\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Gustavo\Desktop\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Gustavo\Desktop\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Gustavo\Desktop\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Gustavo\Desktop\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Gustavo\Desktop\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+C:\Users\Gustavo\Desktop\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Gustavo\Desktop\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Gustavo\Desktop\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+C:\Users\Gustavo\Desktop\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Gustavo\Desktop\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_catraca.resources
+C:\Users\Gustavo\Desktop\programa_teleferico13\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGridCatraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico17\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico17\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico17\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGridCatraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Gustavo\Desktop\programa_teleferico17\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Gustavo\Desktop\programa_teleferico17\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Gustavo\Desktop\programa_teleferico17\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Gustavo\Desktop\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGridCatraca.resources
+C:\Users\Gustavo\Desktop\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\Gustavo\Desktop\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Gustavo\Desktop\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Gustavo\Desktop\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_catraca.resources
+C:\Users\Gustavo\Desktop\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Gustavo\Desktop\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Gustavo\Desktop\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Gustavo\Desktop\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Gustavo\Desktop\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Gustavo\Desktop\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Gustavo\Desktop\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+C:\Users\Gustavo\Desktop\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Gustavo\Desktop\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Gustavo\Desktop\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+C:\Users\Gustavo\Desktop\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Gustavo\Desktop\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Gustavo\Desktop\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Gustavo\Desktop\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Desktop\programa_teleferico17\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_conculta_semanal.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico19\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico19\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico19\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGridCatraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_semanal.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Gustavo\Desktop\programa_teleferico19\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Gustavo\Desktop\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Gustavo\Desktop\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Gustavo\Desktop\programa_teleferico19\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Gustavo\Desktop\programa_teleferico19\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Gustavo\Desktop\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Desktop\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGridCatraca.resources
+C:\Users\Gustavo\Desktop\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\Gustavo\Desktop\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Gustavo\Desktop\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Gustavo\Desktop\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_catraca.resources
+C:\Users\Gustavo\Desktop\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Gustavo\Desktop\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Gustavo\Desktop\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Gustavo\Desktop\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Gustavo\Desktop\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Gustavo\Desktop\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Gustavo\Desktop\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+C:\Users\Gustavo\Desktop\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Gustavo\Desktop\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Gustavo\Desktop\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+C:\Users\Gustavo\Desktop\programa_teleferico19\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Danilo\Downloads\programa_teleferico21\programa_teleferico21\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Danilo\Downloads\programa_teleferico21\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Danilo\Downloads\programa_teleferico21\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Danilo\Downloads\programa_teleferico21\programa_teleferico21\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Danilo\Downloads\programa_teleferico21\programa_teleferico21\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Danilo\Downloads\programa_teleferico21\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Downloads\programa_teleferico21\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGridCatraca.resources
+C:\Users\Danilo\Downloads\programa_teleferico21\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\Danilo\Downloads\programa_teleferico21\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Danilo\Downloads\programa_teleferico21\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Danilo\Downloads\programa_teleferico21\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_catraca.resources
+C:\Users\Danilo\Downloads\programa_teleferico21\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Danilo\Downloads\programa_teleferico21\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Danilo\Downloads\programa_teleferico21\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Danilo\Downloads\programa_teleferico21\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Danilo\Downloads\programa_teleferico21\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Danilo\Downloads\programa_teleferico21\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Danilo\Downloads\programa_teleferico21\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+C:\Users\Danilo\Downloads\programa_teleferico21\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Danilo\Downloads\programa_teleferico21\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Danilo\Downloads\programa_teleferico21\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Danilo\Downloads\programa_teleferico21\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+C:\Users\Danilo\Downloads\programa_teleferico21\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Gustavo\Desktop\programa_teleferico21\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Gustavo\Desktop\programa_teleferico21\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Gustavo\Desktop\programa_teleferico21\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Gustavo\Desktop\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGridCatraca.resources
+C:\Users\Gustavo\Desktop\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\Gustavo\Desktop\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Gustavo\Desktop\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Gustavo\Desktop\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_catraca.resources
+C:\Users\Gustavo\Desktop\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Gustavo\Desktop\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Gustavo\Desktop\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Gustavo\Desktop\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Gustavo\Desktop\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Gustavo\Desktop\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Gustavo\Desktop\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+C:\Users\Gustavo\Desktop\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Gustavo\Desktop\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Gustavo\Desktop\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+C:\Users\Gustavo\Desktop\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Gustavo\Desktop\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Gustavo\Desktop\programa_teleferico21\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\3binfo\Desktop\programa_teleferico23\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\3binfo\Desktop\programa_teleferico23\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\3binfo\Desktop\programa_teleferico23\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\3binfo\Desktop\programa_teleferico23\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\3binfo\Desktop\programa_teleferico23\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\3binfo\Desktop\programa_teleferico23\programa_teleferico\bin\Debug\MetroFramework.Design.dll
+C:\Users\3binfo\Desktop\programa_teleferico23\programa_teleferico\bin\Debug\MetroFramework.dll
+C:\Users\3binfo\Desktop\programa_teleferico23\programa_teleferico\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\3binfo\Desktop\programa_teleferico23\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\3binfo\Desktop\programa_teleferico23\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGridCatraca.resources
+C:\Users\3binfo\Desktop\programa_teleferico23\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\3binfo\Desktop\programa_teleferico23\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\3binfo\Desktop\programa_teleferico23\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\3binfo\Desktop\programa_teleferico23\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_catraca.resources
+C:\Users\3binfo\Desktop\programa_teleferico23\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\3binfo\Desktop\programa_teleferico23\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\3binfo\Desktop\programa_teleferico23\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\3binfo\Desktop\programa_teleferico23\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\3binfo\Desktop\programa_teleferico23\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\3binfo\Desktop\programa_teleferico23\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\3binfo\Desktop\programa_teleferico23\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+C:\Users\3binfo\Desktop\programa_teleferico23\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\3binfo\Desktop\programa_teleferico23\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\3binfo\Desktop\programa_teleferico23\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\3binfo\Desktop\programa_teleferico23\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+C:\Users\3binfo\Desktop\programa_teleferico23\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico24\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico24\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico24\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico24\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico24\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico24\programa_teleferico\bin\Debug\MetroFramework.Design.dll
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico24\programa_teleferico\bin\Debug\MetroFramework.dll
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico24\programa_teleferico\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico24\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico24\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGridCatraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico24\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico24\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico24\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico24\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico24\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico24\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico24\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico24\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico24\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico24\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico24\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico24\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico24\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico24\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico24\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico24\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico25\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico25\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico25\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico25\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico25\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico25\programa_teleferico\bin\Debug\MetroFramework.Design.dll
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico25\programa_teleferico\bin\Debug\MetroFramework.dll
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico25\programa_teleferico\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico25\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGridCatraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico25\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico25\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico25\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_avulso.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico25\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico25\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico25\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico25\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico25\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico25\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico25\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico25\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico25\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico25\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico25\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico25\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico25\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico25\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico25\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_bilhete.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico25\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bilhetes.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico26\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico26\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico26\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico26\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico26\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico26\programa_teleferico\bin\Debug\MetroFramework.Design.dll
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico26\programa_teleferico\bin\Debug\MetroFramework.dll
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico26\programa_teleferico\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico26\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico26\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGridCatraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico26\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico26\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico26\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_avulso.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico26\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_bilhete.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico26\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bilhetes.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico26\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico26\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico26\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico26\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico26\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico26\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico26\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico26\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico26\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico26\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico26\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico26\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico26\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico26\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico26\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_avulso.resources
+C:\Users\Gustavo\Desktop\programa_teleferico27\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Gustavo\Desktop\programa_teleferico27\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Gustavo\Desktop\programa_teleferico27\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Gustavo\Desktop\programa_teleferico27\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Gustavo\Desktop\programa_teleferico27\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Gustavo\Desktop\programa_teleferico27\programa_teleferico\bin\Debug\MetroFramework.Design.dll
+C:\Users\Gustavo\Desktop\programa_teleferico27\programa_teleferico\bin\Debug\MetroFramework.dll
+C:\Users\Gustavo\Desktop\programa_teleferico27\programa_teleferico\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Gustavo\Desktop\programa_teleferico27\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Desktop\programa_teleferico27\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGridCatraca.resources
+C:\Users\Gustavo\Desktop\programa_teleferico27\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\Gustavo\Desktop\programa_teleferico27\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Gustavo\Desktop\programa_teleferico27\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_avulso.resources
+C:\Users\Gustavo\Desktop\programa_teleferico27\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_bilhete.resources
+C:\Users\Gustavo\Desktop\programa_teleferico27\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_avulso.resources
+C:\Users\Gustavo\Desktop\programa_teleferico27\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bilhetes.resources
+C:\Users\Gustavo\Desktop\programa_teleferico27\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Gustavo\Desktop\programa_teleferico27\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_catraca.resources
+C:\Users\Gustavo\Desktop\programa_teleferico27\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Gustavo\Desktop\programa_teleferico27\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Gustavo\Desktop\programa_teleferico27\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Gustavo\Desktop\programa_teleferico27\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Gustavo\Desktop\programa_teleferico27\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Gustavo\Desktop\programa_teleferico27\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Gustavo\Desktop\programa_teleferico27\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+C:\Users\Gustavo\Desktop\programa_teleferico27\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Gustavo\Desktop\programa_teleferico27\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\programa_teleferico27\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Gustavo\Desktop\programa_teleferico27\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+C:\Users\Gustavo\Desktop\programa_teleferico27\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico28\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico28\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico28\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico28\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico28\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico28\programa_teleferico\bin\Debug\MetroFramework.Design.dll
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico28\programa_teleferico\bin\Debug\MetroFramework.dll
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico28\programa_teleferico\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico28\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGridCatraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico28\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico28\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico28\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_avulso.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico28\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_bilhete.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico28\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_avulso.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico28\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bilhetes.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico28\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico28\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico28\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico28\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico28\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico28\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico28\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico28\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico28\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico28\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico28\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico28\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico28\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico28\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\bin\Debug\MetroFramework.Design.dll
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\bin\Debug\MetroFramework.dll
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGridCatraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_avulso.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_bilhete.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_avulso.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bilhetes.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\bin\Debug\itextsharp.dll
+C:\Users\Claudio\Desktop\Gustavo\programa_teleferico29\programa_teleferico\bin\Debug\itextsharp.xml
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\bin\Debug\itextsharp.dll
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\bin\Debug\MetroFramework.Design.dll
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\bin\Debug\MetroFramework.dll
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\bin\Debug\itextsharp.xml
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGridCatraca.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_avulso.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_bilhete.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_avulso.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bilhetes.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_catraca.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico30\programa_teleferico30\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Claudio\Desktop\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Claudio\Desktop\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\bin\Debug\itextsharp.dll
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\bin\Debug\MetroFramework.Design.dll
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\bin\Debug\MetroFramework.dll
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\bin\Debug\itextsharp.xml
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGridCatraca.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_avulso.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_bilhete.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_avulso.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bilhetes.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico31\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\bin\Debug\DBteleferico.bak
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\bin\Debug\itextsharp.dll
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\bin\Debug\MetroFramework.Design.dll
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\bin\Debug\MetroFramework.dll
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\bin\Debug\itextsharp.xml
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGridCatraca.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_avulso.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_bilhete.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_avulso.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bilhetes.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_catraca.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico32\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.pdb
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.exe
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.pdb
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\bin\Debug\DBteleferico.bak
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\bin\Debug\programa_teleferico.exe
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\bin\Debug\programa_teleferico.pdb
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\bin\Debug\itextsharp.dll
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\bin\Debug\MetroFramework.Design.dll
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\bin\Debug\MetroFramework.dll
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\bin\Debug\MetroFramework.Fonts.dll
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\bin\Debug\itextsharp.xml
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGridCatraca.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_avulso.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_bilhete.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_avulso.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bilhetes.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_catraca.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\bin\Debug\DBteleferico.bak
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\bin\Debug\itextsharp.dll
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\bin\Debug\MetroFramework.Design.dll
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\bin\Debug\MetroFramework.dll
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\bin\Debug\itextsharp.xml
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGridCatraca.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_avulso.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_bilhete.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_avulso.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bilhetes.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico32\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\bin\Debug\DBteleferico.bak
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\bin\Debug\itextsharp.dll
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\bin\Debug\MetroFramework.Design.dll
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\bin\Debug\MetroFramework.dll
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\bin\Debug\itextsharp.xml
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGridCatraca.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_avulso.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_bilhete.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_avulso.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bilhetes.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.exe
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.pdb
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\bin\Debug\DBteleferico.bak
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\bin\Debug\programa_teleferico.exe
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\bin\Debug\programa_teleferico.pdb
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\bin\Debug\itextsharp.dll
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\bin\Debug\MetroFramework.Design.dll
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\bin\Debug\MetroFramework.dll
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\bin\Debug\MetroFramework.Fonts.dll
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\bin\Debug\itextsharp.xml
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGridCatraca.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_avulso.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_bilhete.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_avulso.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bilhetes.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_catraca.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+\\HOUSE\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.exe
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\bin\Debug\DBteleferico.bak
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\bin\Debug\itextsharp.dll
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\bin\Debug\MetroFramework.Design.dll
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\bin\Debug\MetroFramework.dll
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\bin\Debug\itextsharp.xml
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGridCatraca.resources
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_avulso.resources
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_bilhete.resources
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_avulso.resources
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bilhetes.resources
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_catraca.resources
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+C:\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\bin\Debug\DBteleferico.bak
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\bin\Debug\programa_teleferico.exe
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\bin\Debug\programa_teleferico.pdb
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\bin\Debug\itextsharp.dll
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\bin\Debug\MetroFramework.Design.dll
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\bin\Debug\MetroFramework.dll
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\bin\Debug\MetroFramework.Fonts.dll
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\bin\Debug\itextsharp.xml
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGridCatraca.resources
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_avulso.resources
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_bilhete.resources
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_avulso.resources
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bilhetes.resources
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_catraca.resources
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+\\REGIS\Users\REGIS_\Documents\DanTrigger\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_AlterarSenha.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico34\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_exportar_excel.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\bin\Debug\DBteleferico.bak
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\bin\Debug\itextsharp.dll
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\bin\Debug\MetroFramework.Design.dll
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\bin\Debug\MetroFramework.dll
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\bin\Debug\itextsharp.xml
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGridCatraca.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_AlterarSenha.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_avulso.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_bilhete.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_avulso.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bilhetes.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_catraca.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_exportar_excel.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico35\programa_teleferico35\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\bin\Debug\DBteleferico.bak
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\bin\Debug\itextsharp.dll
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\bin\Debug\MetroFramework.Design.dll
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\bin\Debug\MetroFramework.dll
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\bin\Debug\itextsharp.xml
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGridCatraca.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_AlterarSenha.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_avulso.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_bilhete.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_avulso.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bilhetes.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_exportar_excel.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Claudio\Desktop\Gustavo\Projetos C#\programa_teleferico36\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_relatorio_avulso.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\bin\Debug\DBteleferico.bak
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\bin\Debug\itextsharp.dll
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\bin\Debug\MetroFramework.Design.dll
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\bin\Debug\MetroFramework.dll
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\bin\Debug\itextsharp.xml
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGridCatraca.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_AlterarSenha.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_avulso.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_bilhete.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_avulso.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bilhetes.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_catraca.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_exportar_excel.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_relatorio_avulso.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico37\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\bin\Debug\DBteleferico.bak
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\bin\Debug\itextsharp.dll
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\bin\Debug\MetroFramework.Design.dll
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\bin\Debug\MetroFramework.dll
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\bin\Debug\itextsharp.xml
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGridCatraca.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_AlterarSenha.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_avulso.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_bilhete.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_avulso.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bilhetes.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_catraca.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_exportar_excel.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_relatorio_avulso.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico37\programa_teleferico38\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\bin\Debug\DBteleferico.bak
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\bin\Debug\itextsharp.dll
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\bin\Debug\MetroFramework.Design.dll
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\bin\Debug\MetroFramework.dll
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\bin\Debug\itextsharp.xml
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGridCatraca.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_AlterarSenha.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_avulso.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_bilhete.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_avulso.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bilhetes.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_catraca.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_exportar_excel.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_relatorio_avulso.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\bin\Debug\DBteleferico.bak
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\bin\Debug\itextsharp.dll
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\bin\Debug\MetroFramework.Design.dll
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\bin\Debug\MetroFramework.dll
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\bin\Debug\itextsharp.xml
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGridCatraca.resources
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_AlterarSenha.resources
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_avulso.resources
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_bilhete.resources
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_avulso.resources
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bilhetes.resources
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_catraca.resources
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_exportar_excel.resources
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_relatorio_avulso.resources
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Claudio\Desktop\programa_teleferico38\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico41\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico41\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico41\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\bin\Debug\DBteleferico.bak
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\bin\Debug\itextsharp.dll
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\bin\Debug\MetroFramework.Design.dll
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\bin\Debug\MetroFramework.dll
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\bin\Debug\itextsharp.xml
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\obj\Debug\programa_teleferico.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGridCatraca.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_AlterarSenha.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_avulso.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_bilhete.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_avulso.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bilhetes.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_catraca.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_exportar_excel.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_relatorio_avulso.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources
+C:\Users\Danilo\Documents\Danilo\Teleferico\programa_teleferico41\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.Cache
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\obj\Debug\programa_teleferico.csprojAssemblyReference.cache
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\obj\Debug\programa_teleferico.exe
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\obj\Debug\programa_teleferico.pdb
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\bin\Debug\DBteleferico.bak
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\bin\Debug\programa_teleferico.exe.config
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\bin\Debug\programa_teleferico.exe
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\bin\Debug\programa_teleferico.pdb
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\bin\Debug\itextsharp.dll
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\bin\Debug\MetroFramework.Design.dll
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\bin\Debug\MetroFramework.dll
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\bin\Debug\itextsharp.xml
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\obj\Debug\programa_teleferico.Properties.Resources.resources
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\obj\Debug\programa_teleferico.csproj.GenerateResource.cache
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\obj\Debug\programa_teleferico.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\obj\Debug\programa_teleferico.csproj.CopyComplete
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGrid.resources
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\obj\Debug\programa_teleferico.Tela.telaCarregaGridCatraca.resources
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura_catraca.resources
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_abertura.resources
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_AlterarSenha.resources
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_avulso.resources
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_cadastrar_bilhete.resources
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_avulso.resources
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bilhetes.resources
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_bin.resources
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_catraca.resources
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_p1.resources
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_pagseguro.resources
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_consulta_total_diario.resources
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_exportar_excel.resources
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_catraca.resources
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma1.resources
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_fechamento_plataforma2.resources
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_login.resources
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\obj\Debug\programa_teleferico.tela_menu.resources
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_relatorio_avulso.resources
+C:\Users\Gustavo Ferreira\Desktop\programa_teleferico42\programa_teleferico\obj\Debug\programa_teleferico.Tela.tela_splash.resources

@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{15A8CEAB-5333-4707-B838-3ABBB5BFEE50}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>programa_teleferico</RootNamespace>
+    <AssemblyName>programa_teleferico</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo_log1.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp, Version=5.5.10.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.10\lib\itextsharp.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.ConnectionInfo, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Dmf, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.SqlServer.Dmf.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Management.Sdk.Sfc, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.RegSvrEnum, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.ServiceBrokerEnum, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Smo, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.SqlServer.Smo.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.SmoExtended, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.SqlServer.SmoExtended.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.SqlClrProvider, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.SqlEnum, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.SqlServer.SqlEnum.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controlador\Avulso.cs" />
+    <Compile Include="Controlador\Bilhetes.cs" />
+    <Compile Include="Controlador\FechamentoCatraca.cs" />
+    <Compile Include="Print\WindowHelper.cs" />
+    <Compile Include="Repositorio\Calcular.cs" />
+    <Compile Include="Controlador\AberturaCaixa.cs" />
+    <Compile Include="Controlador\AberturaCatraca.cs" />
+    <Compile Include="Controlador\Classep1.cs" />
+    <Compile Include="Controlador\Classep2.cs" />
+    <Compile Include="Repositorio\Listar_avulso.cs" />
+    <Compile Include="Repositorio\Listar_tabelas_catraca.cs" />
+    <Compile Include="Repositorio\SalvarAbertura.cs" />
+    <Compile Include="Repositorio\SalvarAvulso.cs" />
+    <Compile Include="Repositorio\SalvarBilhetes.cs" />
+    <Compile Include="Repositorio\SalvarCatraca.cs" />
+    <Compile Include="Repositorio\SalvarFechamentoCatraca.cs" />
+    <Compile Include="Repositorio\Salvarp1.cs" />
+    <Compile Include="Repositorio\Salvarp2.cs" />
+    <Compile Include="Repositorio\Listar_tabelas_plataformas.cs" />
+    <Compile Include="Restauracao\RestaurarBD.cs" />
+    <Compile Include="Tela\telaCarregaGridCatraca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela\telaCarregaGridCatraca.Designer.cs">
+      <DependentUpon>telaCarregaGridCatraca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela\telaCarregaGrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela\telaCarregaGrid.Designer.cs">
+      <DependentUpon>telaCarregaGrid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela\tela_abertura_catraca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela\tela_abertura_catraca.Designer.cs">
+      <DependentUpon>tela_abertura_catraca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela\tela_AlterarSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela\tela_AlterarSenha.Designer.cs">
+      <DependentUpon>tela_AlterarSenha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela\tela_cadastrar_avulso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela\tela_cadastrar_avulso.Designer.cs">
+      <DependentUpon>tela_cadastrar_avulso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela\tela_cadastrar_bilhete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela\tela_cadastrar_bilhete.Designer.cs">
+      <DependentUpon>tela_cadastrar_bilhete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela\tela_consulta_avulso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela\tela_consulta_avulso.Designer.cs">
+      <DependentUpon>tela_consulta_avulso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela\tela_consulta_bilhetes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela\tela_consulta_bilhetes.Designer.cs">
+      <DependentUpon>tela_consulta_bilhetes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela\tela_consulta_bin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela\tela_consulta_bin.Designer.cs">
+      <DependentUpon>tela_consulta_bin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela\tela_consulta_catraca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela\tela_consulta_catraca.Designer.cs">
+      <DependentUpon>tela_consulta_catraca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela\tela_consulta_pagseguro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela\tela_consulta_pagseguro.Designer.cs">
+      <DependentUpon>tela_consulta_pagseguro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela\tela_consulta_total_diario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela\tela_consulta_total_diario.Designer.cs">
+      <DependentUpon>tela_consulta_total_diario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela\tela_exportar_excel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela\tela_exportar_excel.Designer.cs">
+      <DependentUpon>tela_exportar_excel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela\tela_fechamento_catraca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela\tela_fechamento_catraca.Designer.cs">
+      <DependentUpon>tela_fechamento_catraca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela\tela_fechamento_plataforma2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela\tela_fechamento_plataforma2.Designer.cs">
+      <DependentUpon>tela_fechamento_plataforma2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela\tela_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela\tela_login.Designer.cs">
+      <DependentUpon>tela_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela\tela_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela\tela_menu.Designer.cs">
+      <DependentUpon>tela_menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tela\tela_abertura_plataforma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela\tela_abertura_plataforma.Designer.cs">
+      <DependentUpon>tela_abertura_plataforma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela\tela_consulta_p1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela\tela_consulta_p1.Designer.cs">
+      <DependentUpon>tela_consulta_p1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela\tela_fechamento_plataforma1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela\tela_fechamento_plataforma1.Designer.cs">
+      <DependentUpon>tela_fechamento_plataforma1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela\tela_relatorio_avulso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela\tela_relatorio_avulso.Designer.cs">
+      <DependentUpon>tela_relatorio_avulso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela\tela_splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela\tela_splash.Designer.cs">
+      <DependentUpon>tela_splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utilitatio\Conexao.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Tela\telaCarregaGrid.resx">
+      <DependentUpon>telaCarregaGrid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela\telaCarregaGridCatraca.resx">
+      <DependentUpon>telaCarregaGridCatraca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela\tela_abertura_catraca.resx">
+      <DependentUpon>tela_abertura_catraca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela\tela_abertura_plataforma.resx">
+      <DependentUpon>tela_abertura_plataforma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela\tela_AlterarSenha.resx">
+      <DependentUpon>tela_AlterarSenha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela\tela_cadastrar_avulso.resx">
+      <DependentUpon>tela_cadastrar_avulso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela\tela_cadastrar_bilhete.resx">
+      <DependentUpon>tela_cadastrar_bilhete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela\tela_consulta_avulso.resx">
+      <DependentUpon>tela_consulta_avulso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela\tela_consulta_bilhetes.resx">
+      <DependentUpon>tela_consulta_bilhetes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela\tela_consulta_bin.resx">
+      <DependentUpon>tela_consulta_bin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela\tela_consulta_catraca.resx">
+      <DependentUpon>tela_consulta_catraca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela\tela_consulta_p1.resx">
+      <DependentUpon>tela_consulta_p1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela\tela_consulta_pagseguro.resx">
+      <DependentUpon>tela_consulta_pagseguro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela\tela_consulta_total_diario.resx">
+      <DependentUpon>tela_consulta_total_diario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela\tela_exportar_excel.resx">
+      <DependentUpon>tela_exportar_excel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela\tela_fechamento_catraca.resx">
+      <DependentUpon>tela_fechamento_catraca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela\tela_fechamento_plataforma1.resx">
+      <DependentUpon>tela_fechamento_plataforma1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela\tela_fechamento_plataforma2.resx">
+      <DependentUpon>tela_fechamento_plataforma2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela\tela_login.resx">
+      <DependentUpon>tela_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela\tela_menu.resx">
+      <DependentUpon>tela_menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela\tela_relatorio_avulso.resx">
+      <DependentUpon>tela_relatorio_avulso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela\tela_splash.resx">
+      <DependentUpon>tela_splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.manifest">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DBteleferico.bak">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_log1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="logo_log1.ico" />
+    <None Include="Resources\Logo-Teleférico.jpg" />
+    <None Include="Resources\minimize_window-512.png" />
+    <None Include="Resources\15106-illustration-of-a-red-close-button-pv.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
